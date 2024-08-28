@@ -1,0 +1,30 @@
+# Directorios de NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Archivos de compilación
+build/
+
+# Archivos de configuración específicos del entorno
+*.properties
+*.log
+
+# Archivos de configuración del IDE
+**/nbproject/private/
+**/nbproject/nbbuild-impl.xml
+**/nbproject/genfiles.properties
+**/nbproject/project.properties
+
+# Archivos binarios
+*.class
+*.jar
+*.war
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
